@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.not-container {
+  width: 50%;
+  box-shadow: 2px solid #475569;
+  display: flex;
+  justify-content: space-between;
+}

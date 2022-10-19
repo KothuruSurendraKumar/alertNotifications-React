@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.success-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.text {
+  font-family: 'Roboto';
+  font-size: 18px;
+}
+.success {
+  color: #2dca73;
+}
+.error {
+  color: #ff0b37;
+}
+.warning {
+  color: #ffb800;
+}
+.info {
+  color: #0f81e0;
+}
+.icon {
+  height: 25px;
+  width: 25px;
+
+  margin-right: 25px;
+  margin-top: 13px;
+}
+.success-inner {
+  display: flex;
+}
+.icon-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.description {
+  font-family: 'Roboto';
+  color: #475569;
+}
